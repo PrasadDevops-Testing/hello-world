@@ -5,19 +5,19 @@
     <hr>
      
     <label for="Name"><b>Enter your Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter your mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Mobile Number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter your Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
